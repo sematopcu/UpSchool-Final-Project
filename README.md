@@ -1,8 +1,6 @@
 <h1> UP SCHOOL BACKEND PROJECT </h1>
 
-
-
-https://github.com/sematopcu/UpSchool-Final-Project/assets/121682912/fe3005d4-1447-4d77-87c0-b13a6875e967
+https://github.com/sematopcu/UpSchool-Final-Project/assets/121682912/1cf806fc-1718-42e2-abdb-adb727125338
 
 A bot application has been developed as part of the backend final project. This project is a web crawler application that can scrape products from the website https://finalproject.dotnet.gg/. It is capable of retrieving the desired number of products. Additionally, you have the option to scrape only discounted products, non-discounted products, or all of them.
 
