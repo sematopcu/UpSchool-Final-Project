@@ -2,7 +2,7 @@
 
 https://github.com/sematopcu/UpSchool-Final-Project/assets/121682912/1cf806fc-1718-42e2-abdb-adb727125338
 
-A bot application has been developed as part of the backend final project. This project is a web crawler application that can scrape products from the website https://finalproject.dotnet.gg/. It is capable of retrieving the desired number of products. Additionally, you have the option to scrape only discounted products, non-discounted products, or all of them.
+A bot application has been developed as part of the backend final project. This project is a web crawler application that can scrape products from the website https://4teker.net/. It is capable of retrieving the desired number of products. Additionally, you have the option to scrape only discounted products, non-discounted products, or all of them.
 
 The scraped products can be viewed in a panel and saved as an Excel file. This allows you to transfer the data to your own systems.
 
