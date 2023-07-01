@@ -134,7 +134,7 @@ while (!Continue)
 
     Console.Clear();
 
-    Driver.Navigate().GoToUrl("https://finalproject.dotnet.gg/");
+    Driver.Navigate().GoToUrl("https://4teker.net/");
 
     var orderEventAddRequest = new OrderEventAddCommand()
     {
@@ -168,7 +168,7 @@ while (!Continue)
 
     for (int i = 1; i <= pageCount; i++)
     {
-        Driver.Navigate().GoToUrl($"https://finalproject.dotnet.gg/?currentPage={i}");
+        Driver.Navigate().GoToUrl($"https://4teker.net/?currentPage={i}");
 
         Console.WriteLine($"{i}. Page");
 
